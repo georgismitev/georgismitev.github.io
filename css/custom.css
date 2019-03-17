@@ -1,0 +1,5 @@
+@media only screen and (max-width : 768px) {
+  .avatar img {
+    width: 16rem;
+  }
+}
