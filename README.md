@@ -1,0 +1,1 @@
+- start the project with python -m http.server 8082
